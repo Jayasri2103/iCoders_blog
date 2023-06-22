@@ -1,0 +1,2 @@
+if opening from anew terminal then:
+.\env\Scripts\activate.ps1
